@@ -1,5 +1,5 @@
 # Authentication.Sample
 
-An sample source code to write Blazor Client App
+Sample source code to write Blazor Client App
 
 
